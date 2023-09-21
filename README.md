@@ -3,7 +3,7 @@
 ![preview](https://github.com/jessicaranft/blog/blob/main/.github/preview.png)
 
 This is a React blog app that conects to the GitHub API to search for the repo issues & user data and display them in a blog post.
-<br><br>
+
 - It lists my GitHub profile with avatar image, followers, name and other info.
 - It lists and filter the issues from this repository and a small preview.
 - You can click the post/issue card, and you'll be redirected to a page containing the full issue/post.
@@ -40,6 +40,6 @@ The layout was created following a Figma prototype.
 
 ## 💻 Deploy
 
-🔗 <a href="https://ignite-coffee-delivery-hazel.vercel.app/" target="_blank">Click to view it live</a>
+🔗 <a href="https://blog-flax-nu-26.vercel.app/" target="_blank">Click to view it live</a>
 <br><br>
 Made with ❤️ by Jessica Ranft.
