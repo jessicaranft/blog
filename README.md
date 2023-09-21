@@ -1,4 +1,4 @@
-# Coffee Delivery
+# GitHub Blog
 
 ![preview](https://github.com/jessicaranft/blog/blob/main/.github/preview.png)
 
