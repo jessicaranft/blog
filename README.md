@@ -2,7 +2,7 @@
 
 ![preview](https://github.com/jessicaranft/blog/blob/main/.github/preview.png)
 
-This is a React blog app that conects to the GitHub API to search for the repo issues & user data and display them in a blog post.
+This is a React blog app that connects to the GitHub API to search for the repo issues & user data and display them in a blog post.
 
 - It lists my GitHub profile with avatar image, followers, name and other info.
 - It lists and filter the issues from this repository and a small preview.
