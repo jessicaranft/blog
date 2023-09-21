@@ -22,7 +22,7 @@ export function Profile() {
   const [profile, setProfile] = useState<Profile | null>(null)
 
   async function getProfileData() {
-    const response = await fetch('http://api.github.com/users/jessicaranft')
+    const response = await fetch('https://api.github.com/users/jessicaranft')
     const data = await response.json()
 
     // console.log(data)
